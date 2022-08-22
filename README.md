@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Jakub</h1>
-<h3 align="left">Self-taught Full-stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h3 align="center">Self-taught Full-stack Developer</h3>
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-software-development-engineering-programming-2974852-2487824.png" alt="coding" width="400" align="right">
 
