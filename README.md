@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Self-taught Full-stack Developer</h3>
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-software-development-engineering-programming-2974852-2487824.png" alt="coding" width="400" align="right">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-software-development-engineering-programming-2974852-2487824.png" alt="coding" width="400" align="right" style="pointer-events:none;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anathrax&label=Profile%20views&color=0e75b6&style=flat" alt="anathrax" /> </p>
 
