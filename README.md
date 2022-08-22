@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Jakub</h2>
 <h3 align="left">Self-taught Full-stack Developer</h3>
 
-💻 Skills
+### 💻 Skills
 
 +   🌐 Solid background and advanced knowledge in web development including `JavaScript, HTML and CSS`
 +   🛠️ Technical skills and experience with `Node.js`
@@ -9,7 +9,7 @@
 +   🔶 Working with version control system - `(Git)`
 +   💛 I also enjoy programming with graphics and creating discord bots using Discord API
 
-📞 How to contact me
+### 📞 How to contact me
 
 +   📫 You can reach me on Discord - anathrax#2824
 +   ✉️ Or send me an email - j.martenek@zoznam.sk
