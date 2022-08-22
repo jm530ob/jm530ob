@@ -1,4 +1,4 @@
-<h1 align="left" style="font-size: 10px;">Hi 👋, I'm Jakub</h1>
+<h2 align="left">Hi 👋, I'm Jakub</h2>
 <h3 align="left">Self-taught Full-stack Developer</h3>
 
 💻 Skills
