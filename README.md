@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Jakub</h2>
 <h3 align="left">Self-taught Full-stack Developer</h3>
 
-💻 My Skills
+💻 Skills
 
 +   🌐 Solid background and advanced knowledge in web development including `JavaScript, HTML and CSS`
 +   🛠️ Technical skills and experience with `Node.js`
