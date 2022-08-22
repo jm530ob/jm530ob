@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Self-taught Full-stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anathrax&label=Profile%20views&color=0e75b6&style=flat" alt="anathrax" /> </p>
-
 💻 Skills
 
 +   🌐 Solid background and advanced knowledge in web development including JavaScript, HTML and CSS
