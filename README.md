@@ -7,15 +7,20 @@
 
 💻 Skills
 
-+   🌐 Solid background and advanced knowledge in web development including JavaScript, HTML and CSS
-+   🛠️ Technical skills and experience with Node.js
-+   🗂️ Skilled in working with SQLite database management tool
-+   🔶 Working with version control system - (Git)
-+   💕 I also enjoy programming with graphics and creating discord bots using Discord API
+    🌐 Solid background and advanced knowledge in web development including JavaScript, HTML and CSS
+    
+    🛠️ Technical skills and experience with Node.js
+    
+    🗂️ Skilled in working with SQLite database management tool
+    
+    🔶 Working with version control system - (Git)
+    
+    💕 I also enjoy programming with graphics and creating discord bots using Discord API
 
 🤝 How to contact me
 
     📬 You can reach me on Discord - anathrax#2824
+    
     📩 Or send me an email - j.martenek@zoznam.sk
 
 <h3 align="left">Languages and Tools:</h3>
