@@ -15,11 +15,8 @@
 +    Or send me an email - **j.martenek@zoznam.sk**
 
 <details closed>
-<summary>test</summary>
-</details>
-
-### Languages and Tools:
-
+<summary> <h4>Languages and Tools</h4> </summary>
+  
 <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
@@ -27,3 +24,5 @@
 <a href="https://nodejs.org/en/"><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.sqlite.org/index.html"><img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/downloads"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
+
+</details>
