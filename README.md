@@ -16,7 +16,7 @@
 
 <details closed>
 <summary> <h4>Languages and Tools</h4> </summary>
-  
+
 <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
