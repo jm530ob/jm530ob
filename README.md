@@ -14,7 +14,9 @@
 +    You can reach me on Discord - **anathrax#2824**
 +    Or send me an email - **j.martenek@zoznam.sk**
 
-<summary> ### Languages and Tools: </summary>
+<summary>test</summary>
+
+### Languages and Tools:
 
 <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
