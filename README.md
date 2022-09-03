@@ -14,7 +14,9 @@
 +    You can reach me on Discord - **anathrax#2824**
 +    Or send me an email - **j.martenek@zoznam.sk**
 
+<details closed>
 <summary>test</summary>
+</details>
 
 ### Languages and Tools:
 
