@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Jakub</h2>
-<h3 align="left">Self-taught Full-stack Developer</h3>
+<h3 align="left">High Schooler & Developer</h3>
 
 ### 💻 My skills
 
