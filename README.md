@@ -22,7 +22,8 @@
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.sqlite.org/index.html"><img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.rust-lang.org/"><img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" /></a>
+<a href="https://cplusplus.com/"><img align="left" alt="Cpp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /></a>
+<a href="https://cmake.org/"><img align="left" alt="Cmake" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/downloads"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 
 </details>
