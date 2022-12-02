@@ -25,5 +25,6 @@
 <a href="https://cplusplus.com/"><img align="left" alt="Cpp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /></a>
 <a href="https://cmake.org/"><img align="left" alt="Cmake" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/downloads"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.vim.org/"><img align="left" alt="Vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" style="padding-right:10px;" /></a>
 
 </details>
