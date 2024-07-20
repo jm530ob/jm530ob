@@ -1,31 +1,16 @@
-<h2 align="left">Hi 👋, I'm Jakub</h2>
-<h3 align="left">High School Student & Developer</h3>
+<h1 align="center">Hi 👋,Im Jakub</h1>
+<h3 align="center">I programm things</h3>
 
-### 💻 My skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anathrax&label=Profile%20views&color=0e75b6&style=flat" alt="anathrax" /> </p>
 
-+    Solid background and advanced knowledge in web development including `JavaScript, HTML and CSS`
-+    Technical skills and experience with `Node.js`
-+    Skilled in working with `SQLite` database management tool
-+    Working with version control system - `(Git)`
-+    I also enjoy programming with graphics and creating discord bots using Discord API
+<h3 align="left">Discord: anathrax</h3>
+<p align="left">
+</p>
 
-### 📞 How to contact me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-+    You can reach me on Discord - **anathrax#2824**
-+    Or send me an email - **j.martenek@azet.sk**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anathrax&show_icons=true&locale=en&layout=compact" alt="anathrax" /></p>
 
-<details closed>
-<summary> <h4>Languages and Tools</h4> </summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anathrax&show_icons=true&locale=en" alt="anathrax" /></p>
 
-<a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
-<a href="https://nodejs.org/en/"><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.sqlite.org/index.html"><img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" /></a>
-<a href="https://cplusplus.com/"><img align="left" alt="Cpp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /></a>
-<a href="https://cmake.org/"><img align="left" alt="Cmake" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.arduino.cc/"><img align="left" alt="Arduino" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" /></a>
-<a href="https://git-scm.com/downloads"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.vim.org/"><img align="left" alt="Vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" style="padding-right:10px;" /></a>
-
-</details>
