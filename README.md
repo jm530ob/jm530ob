@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ I like programming  <br>📚 I am currently learning Rust trying to get better at systems programming and low-level development. <br>🎯 To achieve this, I am developing a range of CLI applications and engaging in other personal projects.
+<p align="left">✨ I like software development  <br>📚 I am currently learning Rust trying to get better at systems programming and low-level development. <br>🎯 To achieve this, I am developing a range of CLI applications and engaging in other personal projects.
   
 ###
   
