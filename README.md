@@ -1,15 +1,47 @@
 <h1 align="center">Hi 👋,Im Jakub</h1>
 <h3 align="center">I programm things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anathrax&label=Profile%20views&color=0e75b6&style=flat" alt="anathrax" /> </p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anathrax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anathrax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" alt="rust" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+###
 
-![anathrax's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anathrax&theme=nord&show_icons=true&hide_border=true&layout=compact)
+<h2 align="left">About me</h2>
 
-![anathrax's Stats](https://github-readme-stats.vercel.app/api?username=anathrax&theme=nord&show_icons=true&hide_border=true&count_private=true)
+###
+
+<p align="left">✨ I like programming  <br>📚 I am currently learning Rust trying to get better at systems programming and low-level development. <br>🎯 To achieve this, I am developing a range of CLI applications and engaging in other personal projects.
+  
+###
+  
+<h2 align="left">I am interested in:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" alt="C# logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" height="40" alt="ferris logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
 
