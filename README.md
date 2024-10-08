@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ I like software development  <br>🦀 I am currently learning Rust <br>🎯 Developing a range of CLI applications and engaging in other personal projects.
+<p align="left">✨ Computer science enthusiast <br> 🦀 Learning C, Rust <br> 🎯 Developing CLI apps.
   
 ###
   
