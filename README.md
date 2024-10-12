@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ CS student <br> 🦀 Learning C, Rust <br> 🎯 Developing CLI / TUI apps.
+<p align="left">🏛️ CS student <br> 🦀 Learning C, Rust <br> 🎯 Developing CLI / TUI apps.
   
 ###
   
