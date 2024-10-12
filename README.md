@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Im Jakub</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I programm things</h3>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Computer science enthusiast <br> 🦀 Learning C, Rust <br> 🎯 Developing CLI apps.
+<p align="left">✨ Computer science enthusiast <br> 🦀 Learning C, Rust <br> 🎯 Developing CLI / TUI apps.
   
 ###
   
