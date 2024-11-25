@@ -1,47 +1,20 @@
-<h1 align="center">Hi, I'm Jakub 👋</h1>
-<h3 align="center">I programm things</h3>
+# 👋 Hi there. Im Jakub!
 
-###
+CS student, learning more about low level programming, developing CLI, TUI, desktop apps
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jm530ob&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jm530ob&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Languages and tools:
 
-###
+<img src="https://skillicons.dev/icons?i=git,rust,js,c,java,vim" />
 
-<p align="left">
-</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🏫 CS student <br> 🦀 Learning C, Rust <br> 🎯 Developing CLI / TUI apps.
+<details>
+  <summary>Github Stats ⚡</summary>
   
-###
-  
-<h2 align="left">Tools I use / would like to use: </h2>
 
-###
+  <img src="https://github-readme-stats.vercel.app/api?username=jm530ob&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jm530ob&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
+</details>
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" alt="C# logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" height="40" alt="ferris logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
+![status](https://api.statusbadges.me/badge/status/484858766454423552?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/484858766454423552)
+[![spotify](https://api.statusbadges.me/badge/spotify/484858766454423552)](https://api.statusbadges.me/openspotify/484858766454423552)
