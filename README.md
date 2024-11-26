@@ -4,7 +4,7 @@ CS student, learning more about low level programming, developing CLI, TUI, desk
 
 ### Languages and tools:
 
-<img src="https://skillicons.dev/icons?i=git,rust,js,c,java,vim" />
+<img src="https://skillicons.dev/icons?i=git,rust,js,c,java,vim,sqlite" />
 
 
 <details>
