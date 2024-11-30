@@ -2,8 +2,7 @@
 
 CS student, learning more about low level programming, developing CLI, TUI, desktop apps
 
-### Languages and tools:
-
+### Tech Stack:
 <img src="https://skillicons.dev/icons?i=git,rust,js,c,java,vim,sqlite" />
 
 
@@ -16,5 +15,5 @@ CS student, learning more about low level programming, developing CLI, TUI, desk
 </details>
 
 ![status](https://api.statusbadges.me/badge/status/484858766454423552?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/484858766454423552)
-[![spotify](https://api.statusbadges.me/badge/spotify/484858766454423552)](https://api.statusbadges.me/openspotify/484858766454423552)
+<!-- #![playing](https://api.statusbadges.me/badge/playing/484858766454423552) -->
+<!-- [![spotify](https://api.statusbadges.me/badge/spotify/484858766454423552)](https://api.statusbadges.me/openspotify/484858766454423552) -->
