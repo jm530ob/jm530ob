@@ -2,9 +2,8 @@
 
 CS student, learning more about low level programming, developing CLI, TUI, desktop apps
 
-### Tech Stack:
-<img src="https://skillicons.dev/icons?i=git,rust,js,c,java,vim,sqlite" />
-
+### Languages And Tools:
+<img src="https://skillicons.dev/icons?i=rust,js,c,cs,java,git,vim" />
 
 <details>
   <summary>Github Stats ⚡</summary>
