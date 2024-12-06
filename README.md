@@ -2,8 +2,8 @@
 
 CS student, learning more about low level programming, developing CLI, TUI, desktop apps
 
-### Languages And Tools:
-<img src="https://skillicons.dev/icons?i=rust,js,c,cs,java,git,vim" />
+### Main skills:
+<img src="https://skillicons.dev/icons?i=rust,js,ts,c,java,git,vim" />
 
 <details>
   <summary>Github Stats ⚡</summary>
