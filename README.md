@@ -4,7 +4,7 @@
 :man_technologist: **CS** student<br>:books: I'm currently learning **Svelte**, **TypeScript**, and **C**<br>
 
 ### Main skills:
-<img src="https://skillicons.dev/icons?i=rust,c,js,ts,svelte,java,git,vim" />
+<img src="https://skillicons.dev/icons?i=rust,c,js,ts,svelte,java,git,vim" width=320 />
 
 <details>
   <summary>Github Stats :zap:</summary>
