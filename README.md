@@ -1,7 +1,7 @@
 # :wave: Hi there. Im Jakub!
 
 ### About me
-<p align="left">:man_technologist: CS student<br>:books: I'm currently learning Svelte<br></p>
+:man_technologist: **CS** student<br>:books: I'm currently learning **Svelte**, **TypeScript**, and **C**<br>
 
 ### Main skills:
 <img src="https://skillicons.dev/icons?i=rust,c,js,ts,svelte,java,git,vim" />
