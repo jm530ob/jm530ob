@@ -1,12 +1,13 @@
-# 👋 Hi there. Im Jakub!
+# :wave: Hi there. Im Jakub!
 
-CS student, learning more about low level programming, developing CLI, TUI, desktop apps
+### About me
+<p align="left">:man_technologist: CS student<br>:books: I'm currently learning Svelte<br></p>
 
 ### Main skills:
-<img src="https://skillicons.dev/icons?i=rust,js,ts,c,java,git,vim" />
+<img src="https://skillicons.dev/icons?i=rust,c,js,ts,svelte,java,git,vim" />
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats :zap:</summary>
   
 
   <img src="https://github-readme-stats.vercel.app/api?username=jm530ob&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph"  />
