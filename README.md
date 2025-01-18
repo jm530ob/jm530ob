@@ -6,6 +6,9 @@
 ### Tech stack:
 <img src="https://skillicons.dev/icons?i=rust,c,js,ts,svelte,tailwind,java,git,vim" width=320 />
 
+### Web
+https://jakub-martenek.netlify.app/
+
 <details>
   <summary>Github Stats :zap:</summary>
   
